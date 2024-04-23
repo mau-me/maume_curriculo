@@ -1,5 +1,8 @@
-# CV Template 2004
+# Currículo Vitae
 
-You can also find a modified version of this template on [latextemplates.com](http://www.latextemplates.com/template/wilson-resume-cv).
+Currículo Vitae construído com LaTeX.
 
-![Screenshot](https://raw.githubusercontent.com/watsonbox/cv_template_2004/master/cv.jpg)
+## Estrutura
+
+- `cv.tex`: arquivo principal
+- `cv.pdf`: arquivo de saída
